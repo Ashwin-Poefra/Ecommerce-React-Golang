@@ -79,5 +79,6 @@ export const {
   useSaveAddressMutation,
   useChangeActiveAddressMutation,
   useDeleteAddressMutation,
-} = authService
-export default authService
+} = authService;
+
+export default authService;
